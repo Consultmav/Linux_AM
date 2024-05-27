@@ -1,0 +1,2 @@
+export PS1="[\d]\u@ws01"
+[Sat May 18]max@ws01
