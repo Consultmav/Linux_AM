@@ -1,1 +1,1 @@
-# Linux for study
+# Linux_AM for sudy
