@@ -1,1 +1,1 @@
-# Linux_AM for study
+# Linux for study
