@@ -1,0 +1,2 @@
+ln -s /home/empty/file777 ~/link_file_777
+ln -s file777 link_file777
