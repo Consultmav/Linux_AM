@@ -1,4 +1,2 @@
-apt-cache search highlight jquery
-libjs-jquery-datetimepicker - Date and Time Picker plugin for jQuery
-libjs-jquery-jush - jQuery Syntax Highlighter
-sudo apt install libjs-jquery-jush
+sudo groupadd developers
+sudo usermod -g developers alena
