@@ -1,2 +1,3 @@
 sudo passwd iren
+sudo chage -d 2024-05-12 iren
 sudo chage -M 3 iren
