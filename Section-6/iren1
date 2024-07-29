@@ -1,1 +1,2 @@
-sudo apt remove libjs-jquery-jush
+sudo groupadd -g 1010 iren
+sudo useradd -m -g iren -s /bin/dash iren
