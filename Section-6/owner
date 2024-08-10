@@ -1,1 +1,2 @@
-sudo apt-add-repository -r "jammy-security universe"
+chmod 400 ~/owner/file541
+chmod: cannot access '/home/max/owner/file541': Permission denied
