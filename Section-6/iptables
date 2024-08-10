@@ -1,0 +1,2 @@
+sudo apt-get install iptables
+sudo iptables -L OUTPUT
