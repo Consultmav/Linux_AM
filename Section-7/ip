@@ -1,2 +1,9 @@
 sudo ip link add enp0s8
 sudo ifconfig enp0s8 172.20.236.10/24
+ip a show enp0s8
+3: enp0s8: <BROADCAST,NOARP,UP,LOWER_UP> mtu 1500 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/ether 96:5b:a6:c9:72:14 brd ff:ff:ff:ff:ff:ff
+    inet 172.20.236.10/24 brd 172.20.236.255 scope global enp0s8
+       valid_lft forever preferred_lft forever
+    inet6 fe80::945b:a6ff:fec9:7214/64 scope link 
+       valid_lft forever preferred_lft forever
