@@ -1,0 +1,2 @@
+sudo ip link add enp0s8
+sudo ifconfig enp0s8 172.20.236.10/24
